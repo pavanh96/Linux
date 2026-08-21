@@ -1,0 +1,14 @@
+1. mkdir is used to create folders and touch is used to create empty file
+2. cp: copy command is used copy files for fodlder from source to desrination
+mv: used to rename the file
+3.if we use cat > files.txt , what ever the previous data present in the file will be replaed with cat
+4. cat >> files.txt , it will append cat to existing data inside the files 
+5. stops reading and close the file
+6.cat command used show the content of file, tac also used to shoe content of the file but in reverse order 
+7. head- command used to print the top files
+8. tail- command used to print bottom lines
+9.display only first five lines: we can use head -5
+10.last 5 ines: we can use tail -5
+11.The file is removed from its original location,It appears in the new directory with the same name unless you rename it.
+12. cp can copy the directory we need to use -r
+13. we can find system logs in /var/logs folder
