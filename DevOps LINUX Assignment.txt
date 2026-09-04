@@ -1,0 +1,61 @@
+=================================
+       SYSTEM HEALTH REPORT
+=================================
+
+Hostname: LAPTOP-U22TTH1F
+Date: Fri Sep  4 05:39:03 UTC 2026
+
+-------- SYSTEM --------
+Uptime: 05:39:44 up  2:05,  4 users,  load average: 0.00, 0.00, 0.00
+Load Average: load average: 0.00, 0.00, 0.00
+Logged-in Users:
+root     pts/0    -                04:02    1:37m  0.92s  0.59s sudo -i
+pavan    pts/3    -                02:59    2:40m  0.01s  0.01s -bash
+root     pts/1    -                02:58    2:41m  0.01s  0.01s -bash
+
+-------- MEMORY --------
+Total RAM: 3.6Gi
+Used RAM: 610Mi
+Free RAM: 2.9Gi
+Available RAM: 3.0Gi
+Swap:1.0Gi
+
+-------- CPU --------
+CPU Utilization:
+Top CPU Process:
+
+-------- DISK --------
+Filesystem:
+NAME
+    MAJ:MIN RM   SIZE RO TYPE MOUNTPOINTS
+sda   8:0    0 388.4M  1 disk
+sdb   8:16   0     1G  0 disk [SWAP]
+sdc   8:32   0     1T  0 disk /mnt/wslg/distro
+Disk Utilization:
+144K    .
+Largest Directory:
+52K     ./institute
+
+-------- PROCESSES --------
+Top CPU Process:
+6 root      
+Top Memory Process:
+17192 root
+PID: 17192
+Threads:
+17192
+-------- PACKAGE --------
+Package Manager:
+PRETTY_NAME="Ubuntu 24.04.1 LTS"
+NAME="Ubuntu"
+VERSION_ID="24.04"
+
+Nginx Version: nginx version: nginx/1.24.0 (Ubunt
+
+-------- CONCLUSION --------
+Is the server healthy?
+
+If not:
+What is the problem?
+
+Recommended Action:
